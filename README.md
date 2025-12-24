@@ -29,6 +29,7 @@ Beats is mostly a toy. Caveat Emptor etc etc.
 
 
 
+
 ## Usage
 
 Beats makes use of the curses library to render a retro style console interface. Though it technically works with IEx, 
