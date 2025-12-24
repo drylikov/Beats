@@ -1,0 +1,35 @@
+
+{
+  "name": "default",
+  "bpm": 130,
+  "parts": [
+    {"name": "BD", "voice": 36, "pattern": "X         X     "},
+    {"name": "HC", "voice": 39, "pattern": "       X        "},
+    {"name": "SD", "voice": 38, "pattern": "    X       X   "},
+    {"name": "CH", "voice": 44, "pattern": "X   X X X   X X "},
+    {"name": "OH", "voice": 46, "pattern": "  X       X     "}
+  ],
+  "fills": [
+    {
+      "name": "cymbal",
+      "parts": [
+        {"name": "BD", "voice": 36, "pattern": "X         X     "},
+        {"name": "HC", "voice": 39, "pattern": "                "},
+        {"name": "SD", "voice": 38, "pattern": "    X       X   "},
+        {"name": "CH", "voice": 44, "pattern": "X   X X X   X X "},
+        {"name": "OH", "voice": 51, "pattern": "  X       X     "},
+        {"name": "CR", "voice": 52, "pattern": "X               "}
+      ]
+    },
+    {
+      "name": "snare",
+      "parts": [
+        {"name": "BD", "voice": 36, "pattern": "                "},
+        {"name": "HC", "voice": 39, "pattern": "                "},
+        {"name": "SD", "voice": 38, "pattern": "Xx"},
+        {"name": "CH", "voice": 42, "pattern": "                "},
+        {"name": "OH", "voice": 46, "pattern": "                "}
+      ]
+    }
+  ]
+}

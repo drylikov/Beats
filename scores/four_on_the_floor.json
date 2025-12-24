@@ -1,0 +1,11 @@
+
+{
+  "name": "four on the floor",
+  "bpm": 120,
+  "parts": [
+    {"name": "BD", "voice": 36, "pattern": "X       "},
+    {"name": "SD", "voice": 38, "pattern": "    X   "},
+    {"name": "CH", "voice": 42, "pattern": "X X   X "},
+    {"name": "OH", "voice": 46, "pattern": "    X   "}
+  ]
+}

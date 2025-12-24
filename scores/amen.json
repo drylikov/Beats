@@ -1,0 +1,71 @@
+
+{
+  "name": "amen brother",
+  "channel": 4,
+  "bpm": 136,
+  "parts": [
+    {"name": "BD", "voice": 36, "pattern": "X X       XX    "},
+    {"name": "SD", "voice": 38, "pattern": "    X  X X  X  X"},
+    {"name": "RS", "voice": 51, "pattern": "x x x x x x x x "},
+    {"name": "CS", "voice": 52, "pattern": "                "}
+  ],
+  "fills": [
+    {
+      "name": "variation 1",
+      "parts": [
+        {"name": "BD", "voice": 36, "pattern": "X X       X     "},
+        {"name": "SD", "voice": 38, "pattern": "    X  X X    X "},
+        {"name": "RS", "voice": 51, "pattern": "x x x x x x x x "},
+        {"name": "CS", "voice": 49, "pattern": "                "}
+      ]
+    },
+    {
+      "name": "variation 2",
+      "parts": [
+        {"name": "BD", "voice": 36, "pattern": "  XX      X     "},
+        {"name": "SD", "voice": 38, "pattern": " X  X  X X    X "},
+        {"name": "RS", "voice": 51, "pattern": "x x x x x   x x "},
+        {"name": "CS", "voice": 49, "pattern": "          X     "}
+      ]
+    },
+    {
+      "name": "variation",
+      "parts": [
+        {"name": "BD", "voice": 36, "pattern": "  X       X     "},
+        {"name": "SD", "voice": 38, "pattern": " X            X "},
+        {"name": "RS", "voice": 51, "pattern": "x           x x "},
+        {"name": "RS", "voice": 44, "pattern": "   XXXXXXX      "},
+        {"name": "CS", "voice": 52, "pattern": "                "}
+      ]
+    },
+    {
+      "name": "variation",
+      "parts": [
+        {"name": "BD", "voice": 36, "pattern": "  X       X     "},
+        {"name": "SD", "voice": 38, "pattern": " XXXX         X "},
+        {"name": "RS", "voice": 51, "pattern": "x     XXXXX x x "},
+        {"name": "RS", "voice": 44, "pattern": "                "},
+        {"name": "CS", "voice": 52, "pattern": "                "}
+      ]
+    },
+    {
+      "name": "variation",
+      "parts": [
+        {"name": "BD", "voice": 36, "pattern": "X X       X     "},
+        {"name": "SD", "voice": 38, "pattern": "    X  X X     X"},
+        {"name": "RS", "voice": 51, "pattern": "x x x x x x   x "},
+        {"name": "CS", "voice": 50, "pattern": "          X     "}
+      ]
+    },
+    {
+      "name": "variation 2",
+      "parts": [
+        {"name": "BD", "voice": 36, "pattern": "  XX            "},
+        {"name": "SD", "voice": 38, "pattern": " X            X "},
+        {"name": "RS", "voice": 51, "pattern": "x           x x "},
+        {"name": "RS", "voice": 44, "pattern": "                "},
+        {"name": "CS", "voice": 51, "pattern": "    X  X  X     "}
+      ]
+    }
+  ]
+}
