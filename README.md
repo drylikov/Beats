@@ -67,3 +67,4 @@ addition to this interaction, the beats console application has the fopllowing k
 * `l`: Toggle live reldraw of the grid
 * `r`: Rebuild the display
 * `q`: Quit
+
